@@ -1,5 +1,7 @@
 {
     "require": {
         "slim/slim": "2.*"
+        ,"propel/propel": "2.0.*@dev"
+        ,"monolog/monolog": "1.8.*@dev"
     }
 }
